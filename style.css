@@ -1,0 +1,35 @@
+.button{
+    color:white;
+    background-color: rgb(16, 124, 16);
+    border: 10px;
+    border-radius: 7px;
+    border-color: black;
+}
+.container{
+    background-color:rgb(210, 235, 210);
+    padding: 25px;
+}
+.bg-color{
+    background-color: rgb(235, 235, 235);
+}
+.card{
+    height: 200px;
+    width: 60px;
+    padding: 10px;
+}
+.photo{
+    height: 100px;
+    width: 70px;
+    position: relative;
+    left:70px ;
+}
+.resize{
+    height: 460px;
+    width: 60px;
+    padding: 10px;
+}
+.bg-pink{
+    background-color: black;
+    color: white;
+    padding: 5%;
+}
